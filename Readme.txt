@@ -1,0 +1,1 @@
+﻿Automatically records Delta flight seat availability to try to predict overbooking for getting bumped
